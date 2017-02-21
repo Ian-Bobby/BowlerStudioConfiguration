@@ -8,17 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/d4b0df2940a3f1c780adcf7d0273363c.git:sphere.groovy": [
-      "https://gist.github.com/d4b0df2940a3f1c780adcf7d0273363c.git",
-      "sphere.groovy"
-    ],
     "https://gist.github.com/2978e154415cb7c87228d768e691ae26.git:roundedcube.groovy": [
       "https://gist.github.com/2978e154415cb7c87228d768e691ae26.git",
       "roundedcube.groovy"
-    ],
-    "https://gist.github.com/756199b081cd58a321313dab2bf33acd.git:debugging.groovy": [
-      "https://gist.github.com/756199b081cd58a321313dab2bf33acd.git",
-      "debugging.groovy"
     ]
   },
   "BowlerStudioConfigs": {
